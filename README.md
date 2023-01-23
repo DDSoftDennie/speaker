@@ -2,11 +2,24 @@
 
 ## Bio ##
 
-## AI For the Better ##
+## To Write ##
 
-## Accessibility: What, Where, When & How ##
 
-## Affordable Azure Solutions ##
+# People #
+
+## The Scary Truth about Labels ##
+
+## Social Anxiety 2.0 ##
+
+## Help! My co-worker is autistic!? ##
+
+## How do I Help my Son? Revisited! ##
+
+## Inclusion: It's about Beds and Distances ##
+
+## Intersectional Communication ##
+
+## The Financial Underprivileged ##
 
 ## Anxiety in Tech ##
 
@@ -20,34 +33,35 @@
 
 ## Autistic Insights for the Tech World ##
 
-## Blazing Accessibility Basics ##
-
-## E-Motions ##
-
-## Error 404: Color not found ##
-
 ## Exploring Patterns to Debug Your Life ##
 
-## Following Standards for Modern Website Accessibility ##
-
-## Help! My co-worker is autistic!? ##
-
-## How do I Help my Son? Revisited! ##
-
-## Inclusion: It's about Beds and Distances ##
-
-## Intersectional Communication ##
+# .NET #
 
 ## Intro to Blazing Web Accessibility (*) ##
 
-## Social Anxiety 2.0 ##
+## Blazing Accessibility Basics ##
 
-## The Financial Underprivileged ##
 
-## The Scary Truth about Labels ##
+# Azure #
+
+## AI For the Better ##
+
+## Affordable Azure Solutions ##
+
+# Azure Code #
 
 ## Thriving Accessibility: Azure Speech In Width ##
 
 ## Thriving Accessibility: Azure Speech In Depth ##
 
-## To Write ##
+# Accessibility #
+
+## Error 404: Color not found ##
+
+## Following Standards for Modern Website Accessibility ##
+
+## Accessibility: What, Where, When & How ##
+
+# UI/UX #
+
+## E-Motions ##
