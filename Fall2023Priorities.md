@@ -16,5 +16,29 @@ If your software system is a to-do app, calendar or meeting system are you aware
 And last but not least: Do you add that little extra functionality that creates the WOW moment for your user? Are you creating magic in their life?
 Today you will learn about triggering emotions with digital systems, and at least you know which emotions you can (unintentionally) trigger.
 
+## Accessibility: What, Where, When & How ##
+#Accessibility, #nonDotNet
+We all hear about accessibility, creating software and websites that are accessible for as many people as possible, this includes people with visible and hidden disabilities. How many people in the world have a temporally or permanent disability? Where are they, and why do we need to include them? Is there a benefit for our business too?
+The answers are: It’s a business-driven benefit to design for people that are colorblind, it’s a business benefit that users can buy stuff and request support tickets, even if they are anxious, have a cognitive difficulty or have a vision loss.
+Users that want to operate our apps and/ or websites but can’t operate or understand them will be frustrated about our company, software and services. They will feel left behind, and the users will have an unfulfilled need and desire.
+This is not what developers, creators of a better world want, though?
+In this talk, I will explain the basics why we need to build accessible apps and websites and teach you how to get started making impact when you come back from this conference!
+
+# Move from spring #
+
+## Error 404: Color not found ##
+#UI #UX #Accessibility
+Colors are an important way to convey information, but there are a lot of people with color blindness and low vision. What if your only way of conveying information is using color? What about an infographic where the color  contrast is too low and the information is not reaching the end user, the customer or co-worker? What about missing the deal of your life due to an inaccessible website? In some cases the error:  ‘color not found’ will directly lead to: ‘customer or deal not found’. I guess this is not what we want our products to be!
+In this talk I teach you about color contrast, color blindness and the use of color in UX. I also tell you about tools that you can use to test color accessibility in a lot of use cases.
+
+## Anxiety in Tech ##
+#people #nondotnet
+Anxiety, one of the six main emotions, is a feeling of being afraid and experiencing fear. You can have a periodic time frame or a moment with anxiety, or longer periods of anxiety called chronic anxiety. A short period of anxiety is good for your fight or flight response, so that you can take the right actions in critical moments. Chronic anxiety can lead to an unhealthy state of mental being. People can be anxious for a lot of reasons, and there are even proven phobias on researched fears.
+
+You can be anxious for tech reasons too. Let’s imagine being anxious for Windows updates, anxious for NuGet packages, anxious for rebranding, … In this talk I am going to cover reasons where people can be anxious for related to tech. I also show you insights to reduce the amount of anxiety via either changing your thoughts or having software adjustments like branching, backups, and more...
+
+This talk will give you my insights how I (try to) cope with my own tech fears and learn you to go from FEAR to Face Everything And Rise.
+
+
 
 
