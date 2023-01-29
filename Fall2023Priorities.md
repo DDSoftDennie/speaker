@@ -16,6 +16,17 @@ If your software system is a to-do app, calendar or meeting system are you aware
 And last but not least: Do you add that little extra functionality that creates the WOW moment for your user? Are you creating magic in their life?
 Today you will learn about triggering emotions with digital systems, and at least you know which emotions you can (unintentionally) trigger.
 
+## Design for Safety Feeling ##
+Software in the broadest sense can trigger a feeling of stress or even anxiety for it's users. This can be a problem for those people. Let's make this tangible: Did you ever experience stress by filling in a web-form? Do you struggle if you are running out of time but need to fill in too much details? Are you sometimes frustrated by sentences like "Don't miss", "Do finish", "Don't forget"... that popular apps use? To be honest I do. And I am sure that I'm not the only one!
+The good thing is that you can design for a safety feeling, the opposite of anxiety.
+
+In this talk you will learn how to design for a safety feeling. You will learn how you can change the grammar, punctuation, fonts, colors and graphics in your application.
+
+You will learn how to build forms that are easy to fill in and how you can use error messages that are helpful and not stressful. You will see how you can adjust the time with possibilities to extend the time.
+
+Of course I will also talk about how most businesses use CTA's, commercials triggering FOMO and notifications that triggers stress and anxiety. I will talk about other ways to achieve the same goals but are less stressful.
+
+
 ## Accessibility: What, Where, When & How ##
 #Accessibility, #nonDotNet
 We all hear about accessibility, creating software and websites that are accessible for as many people as possible, this includes people with visible and hidden disabilities. How many people in the world have a temporally or permanent disability? Where are they, and why do we need to include them? Is there a benefit for our business too?

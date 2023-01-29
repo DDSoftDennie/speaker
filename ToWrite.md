@@ -1,7 +1,5 @@
 ## Karma in Tech ##
 
-## Design for Safety Feeling ##
-
 ## Me, My Ego & the Troubles in my Life ##
 
 ## A Deep Dive into Microsoft Accessibility Insights for Web ##
