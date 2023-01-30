@@ -16,7 +16,8 @@ If your software system is a to-do app, calendar or meeting system are you aware
 And last but not least: Do you add that little extra functionality that creates the WOW moment for your user? Are you creating magic in their life?
 Today you will learn about triggering emotions with digital systems, and at least you know which emotions you can (unintentionally) trigger.
 
-## Design for Safety Feeling ##
+## Design that makes your users feel safe ##
+#UX #UI #People
 Software in the broadest sense can trigger a feeling of stress or even anxiety for it's users. This can be a problem for those people. Let's make this tangible: Did you ever experience stress by filling in a web-form? Do you struggle if you are running out of time but need to fill in too much details? Are you sometimes frustrated by sentences like "Don't miss", "Do finish", "Don't forget"... that popular apps use? To be honest I do. And I am sure that I'm not the only one!
 The good thing is that you can design for a safety feeling, the opposite of anxiety.
 
