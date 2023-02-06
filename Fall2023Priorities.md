@@ -36,6 +36,14 @@ Users that want to operate our apps and/ or websites but can’t operate or unde
 This is not what developers, creators of a better world want, though?
 In this talk, I will explain the basics why we need to build accessible apps and websites and teach you how to get started making impact when you come back from this conference!
 
+## A Deep Dive into Microsoft Accessibility Insights for Web ##
+#Accessibility #Microsoft
+We all heard about the need to build accessible websites that include all people on the planet to achieve more. Including over 1B people with disabilities. We understand why we need to include those people and that this is way more than charity thinking.
+
+Today we learn how to test your web applications with Microsoft Accessibility Insights for Web. We will install the tool in our modern browser and even in our CI/CD pipeline. I show you the ins- and outs- of this tool and teach you how to debug inaccessible parts or your website.
+
+I will refer to the Web Content Accessibility Guidelines, Microsoft Inclusive Design and provide you a lot of knowledge about how specific disabilities work and how to find the biggest accessibility issues with Microsoft Accessibility Insights for Web.
+
 ## Thriving Accessibility: Azure Speech In Width ##
 #Azure #Accessibility #AI #dotNet
 Azure Speech is an Artificial Intelligence solution that reads aloud text. This is called Speech Synthesis and is used for various modern services.  Did you know that you can use Speech to help people with various disabilities all  over the world too? This can be people with learning disabilities but also people with dyslexia, ADHD and autism who can read but where reading asks a lot of brainpower and concentration. This even can be people with only one arm of new parents, they can use speech to have more hands free.
