@@ -16,3 +16,7 @@
 ## DEADLINE: June 16, 2023 ##
 ## URL: https://sessionize.com/build-stuff-2023-lithuania4405/ ##
 
+# NDC Porto 2023 #
+## DATE: OCTOBER 16-20, 2023 ##
+## DEADLINE: June 21, 2023 ##`
+## URL: https://sessionize.com/ndc-porto-2023/ ##
