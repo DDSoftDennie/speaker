@@ -1,3 +1,5 @@
 # Custom Dictionary Words
-nondotnet
+ADHD
 dotnet
+FOMO
+nondotnet

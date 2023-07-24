@@ -3,7 +3,14 @@
     "ignorePaths": [],
     "dictionaryDefinitions": [],
     "dictionaries": [],
-    "words": ["nondotnet","dotnet"],
-    "ignoreWords": ["nondotnet","dotnet"],
+    "words": [
+        "CTA's",
+        "dotnet",
+        "nondotnet"
+    ],
+    "ignoreWords": [
+        "nondotnet",
+        "dotnet"
+    ],
     "import": []
 }
