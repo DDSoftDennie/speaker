@@ -4,9 +4,10 @@
 
 
 
-## The Azure and .NET Road to Affordable and Accessible Web API's ##
-
 ## Autism: My Road to Belonging ##
 
 ## Thriving Accessibility: The Future is Now ##
 
+## Building Accessible and Inclusive Backends ##
+
+## Can Gen AI make the world more Inclusive? ##
