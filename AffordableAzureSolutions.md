@@ -1,4 +1,4 @@
-## Affordable Azure Solutions ##
+# Affordable Azure Solutions
 #Azure
 
 So, you want to make a cloud solution to help people? Or you have an idea for a project that needs (some part of) the cloud but has a tiny budget? This isn’t a problem! In this talk I am going to inspire you how you can run projects on (parts of) the cloud for a little budget!
