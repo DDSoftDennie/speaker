@@ -8,4 +8,4 @@ In a save space we can share experiences and exchange tips and tricks coping wit
 
 Examples of topics we can discuss: stimuli-response, social interaction, stress, deadlines, planning and communication. The night will be adjusted on the current needs of the participants.
 
-In this context everyone is welcome, not only people with a (self) diagnose or people identifying themselves as neuro-diverse
+In this context everyone is welcome, not only people with a (self) diagnose or people identifying themselves as neuro diverse

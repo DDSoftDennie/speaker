@@ -4,10 +4,8 @@
 
 ## Autism: My Road to Belonging ##
 
-## Thriving Accessibility: The Future is Now ##
-
 ## Building Accessible and Inclusive Backends ##
-
 
 ## Autism at Conferences ##
 
+## Autism & GenAI Use case: Start to Unit Test ##
