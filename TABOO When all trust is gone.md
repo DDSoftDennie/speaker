@@ -1,4 +1,5 @@
-## TABOO: When All Trust Is Gone ##
+# TABOO: When All Trust Is Gone
+
 !! Trigger warning: This talk contains information about conspiracy theories and the pandemic !!
 
 What are we doing in a society where the distance between people is bigger than ever? Our society is polarized more than ever! If this is the fault of the internet, information technologies, humanity, capitalism, something else or a combination of all of them we don't know. But we do know that we are living in a society where more and more are afraid of each other. We don't trust each other anymore. One of the reasons is that we have all different backgrounds and there are too many taboos. Too many topics we "shouldn't" talk about as "good people". The distance between people within the same neighborhood, company and family structure is bigger than ever. And then we also have the distance between people with fewer privileges for example living on a fee for sickness or disabilities over people with jobs on the 'lower-end' and 'high salary workers' to politicians, media and World Leaders.

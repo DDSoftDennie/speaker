@@ -1,16 +1,10 @@
-## Karma in Tech ##
+# To write
 
-## Me, My Ego & the Troubles in my Life ##
+## Building Accessible and Inclusive Backends
 
-## Autism: My Road to Belonging ##
+## Autism & GenAI Use case: Start to Unit Test
 
-## Building Accessible and Inclusive Backends ##
-
-## Autism at Conferences ##
-
-## Autism & GenAI Use case: Start to Unit Test ##
-
-## Don't institutionalize my future self! ##
+## Don't institutionalize my future self!
 
  - Accessibility
  - Mental Health
@@ -18,6 +12,6 @@
  - Vision 
  - PTSD
 
- ## The Importance of Providing Safety ##
+ ## The Importance of Providing Safety
 
 

@@ -1,5 +1,7 @@
-## The Scary Truth About Labels ##
-#people #nondotnet
+# The Scary Truth About Labels
+
+people;nonDotNet
+
 Meet Jenn Scott, she’s 30yo and graduated with an A+ degree for Computer Engineering.
 Meet David Brown, he’s 35yo he is autistic and has no paid job.
 Jenn works in operations, she uses Linux and writes Python, but David uses Windows and writes C# Frameworks.

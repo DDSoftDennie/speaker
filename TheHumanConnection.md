@@ -1,5 +1,8 @@
-## THE (human) CONNECTION ##
-Who are our coworkers? Do they have children? Do they have a hobby where they are shining? What is their mission in life? Why are they waking up in the morning to come to the (home) office? What are their dreams? What are their fears?
+# THE (human) CONNECTION
+
+people;nonDotNet
+
+Who are our coworkers? Do they have children? Do they have a hobby? Where they are shining? What is their mission in life? Why are they waking up in the morning to come to the (home) office? What are their dreams? What are their fears?
 Who are our customers? Are those decision makers? What are their goals to achieve and why? Are their thinking larger then life or are they working for another manager in the hierarchy? Do they have something to lose with using our products and services? Or are our customers end users and do they have a specific purpose choosing our products and services?
 
 But the most important question is: Do we care? Do we care about what people are experiencing in their life? And do people care about you?
