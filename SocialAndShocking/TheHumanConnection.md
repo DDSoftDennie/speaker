@@ -13,4 +13,4 @@ Let's change our direction: use the technology and screens to handle boring and 
 
 At our next customer meeting, don't talk about administrative hassle, talk about them. And maybe... Do also talk about yourself to them!
 
-Because all we need in these crazy times is a human connection.
+Because all we need is a human connection.
