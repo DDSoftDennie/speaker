@@ -6,12 +6,16 @@
 
 ## Don't institutionalize my future self!
 
- - Accessibility
- - Mental Health
- - Autism
- - Vision 
- - PTSD
+    - Accessibility
+    - Mental Health
+    - Autism
+    - Vision 
+    - PTSD
 
- ## The Importance of Providing Safety
+## The Importance of Providing Safety
 
+## Copilot(s), MarkDown and a Medical Team to the Cure
 
+    - Zinner
+
+## Conspiracies, DeepFakes and ANTI-movements: 3 Lenses
