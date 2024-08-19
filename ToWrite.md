@@ -18,8 +18,6 @@
 
 The general medical advice for diseases, symptoms and treatments is to never ask it to Dr. Google. It's a bad idea to explore symptoms and clinical presentations on the internet. On the other hand: 'general' advices are good for the majority. There are always exceptions. This talk is how I used Generative AI next to a brilliant medical team to help me to get cured from a rare disease called 'Zinner Syndrome'.
 
-I was 13 years old when I was diagnosed with autism. I was 16 years old when I started to feel severe pains. I saw different doctors, I went to ER different times. I was told that it was all in my head. I was told that it was psychosomatic. I was 37 years old when I was diagnosed with Zinner Syndrome. A rare disease that only 6 on 200.000 men have.
-
 The first thing my GP said to me: Do look up as much as you can on the internet. I said: really? He said: yes, you are a smart guy. You know how to use it for the better. After some basic YouTube presentation hunting and some basic Google searches I asked the same stuff to Microsoft Copilot.
 
 I started to make a repository on GitHub with MarkDown files. I enabled GitHub Copilot and generated my journey. Reports from appointments to doctors, examinations, treatments, and results. I used the system to track the use of medication, the impact on my body and the impact on my mental being. I even used the GitHub mobile app during my doctor appointments.
