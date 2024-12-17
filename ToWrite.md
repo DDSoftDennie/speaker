@@ -17,14 +17,13 @@
 ## The Importance of Providing Safety
 
 
-## Conspiracies, DeepFakes and ANTI-movements: 3 Lenses
+## Conspiracies, DeepFakes, and ANTI-movements: Three Perspectives
 
-- Truth seekers (the unlucky, the undereducated, the abandoned)
-- Conspiracy theory creators (AI, DeepFakes,digital cults)
-- Society (the media, the government, the mass, the IT-people)
-
-## GenAI to foster disability inclusion and disrupt the disability-divide
-
+- **Truth Seekers**: Often the marginalized, the undereducated, and the forgotten.
+- **Conspiracy Theory Creators**: Leveraging AI, DeepFakes, and digital cults to spread misinformation.
+- **Society**: Including the media, the government, the masses, and IT professionals.
 
 
 ## Markdown, Github & CoPilot: A new way to journal (business) life
+
+
