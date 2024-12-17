@@ -1,5 +1,7 @@
 # Autism and Mental Health
 
+Current number of talks: 11
+
 ## How do I help my Son? Revisited!
 [Read More](HowDoIHelpMySonRevisited.md)
 

@@ -1,5 +1,8 @@
 # Accessibility
 
+Current number of talks: 9
+
+
 ## Inclusion: It's about beds and distances
 [Read More](InclusionItsAboutBedsAndDistances.md)
 

@@ -1,5 +1,7 @@
 # Social and Shocking
 
+Current number of talks: 7
+
 ## Understanding the (Your Language != My Jargon) Problem
 [Read More](YourLanguageISNOTMyJargon.md)
 

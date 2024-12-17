@@ -1,5 +1,8 @@
 # AI
 
+
+Current number of talks: 11
+
 ## AI For The Better
 [Read More](AIForTheBetter.md)
 
@@ -33,6 +36,6 @@
 ## GenAI to foster disability inclusion and disrupt the Disability Divide
 [Read More](GenAIToFosterDisabilityInclusionAndDisrupt.md)
 
-Total number of talks: 11
+
 
 [BACK](../README.md)
