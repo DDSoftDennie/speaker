@@ -25,3 +25,5 @@ This talk is a follow up of AI for the Better, where I envisioned AI assistance,
 ### What is my dream envison to co-pilot my life.
 - Mailbox and agenda management
 - Mind map to agenda, mail to mind map
+
+[Back](AutismAndMH.md)

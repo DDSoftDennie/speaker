@@ -11,3 +11,5 @@ personal and professional articles. You will learn about Mermaid diagrams and ho
 consume your journal on the go and much more.
 
 Come to this inspiring but technical talk to learn to use technology in new ways!
+
+[Back](AI.md)

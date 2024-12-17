@@ -10,3 +10,5 @@ As a tech-optimist I would say yes. But you don't need to believe me. Instead of
 - For people with a visual impairment, Gen AI can help with reading text;
 
 In this talk we are going to explore some use-cases how Gen AI can make the world more a more inclusive and better place for everyone, in specific for people with disabilities.
+
+[Back](AI.md)

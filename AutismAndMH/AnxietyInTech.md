@@ -7,3 +7,5 @@ You can be anxious for tech reasons too. Let’s imagine being anxious for Windo
 This talk will give you my insights how I (try to) cope with my own tech fears and learn you to go from FEAR to Face Everything And Rise.
 
 #People #NonDotNet
+
+[Back](AutismAndMH.md)

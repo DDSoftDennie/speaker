@@ -12,3 +12,5 @@ As a tech-optimist I would say yes. But you don't need to believe me. Instead of
 - For people with migration background, Gen AI can help with translating text;
 
 In this talk we are going to explore some use-cases how Gen AI can make the world more a more inclusive and better place for everyone.
+
+[Back](AI.md)

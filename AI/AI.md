@@ -33,4 +33,6 @@
 ## GenAI to foster disability inclusion and disrupt the Disability Divide
 [Read More](GenAIToFosterDisabilityInclusionAndDisrupt.md)
 
-[README](../README.md)
+Total number of talks: 11
+
+[BACK](../README.md)

@@ -6,3 +6,5 @@ Pictures are a strong tool in a software system that can trigger a lot of emotio
 If your software system is a to-do app, calendar or meeting system are you aware of popups, reminders, attention and attention loss? Are you aware that attentions and colors can trigger anxiety, stress or worse?
 And last but not least: Do you add that little extra functionality that creates the WOW moment for your user? Are you creating magic in their life?
 Today you will learn about triggering emotions with digital systems, and at least you know which emotions you can (unintentionally) trigger.
+
+[Back](UIUX.md)

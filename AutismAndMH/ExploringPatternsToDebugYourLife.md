@@ -4,3 +4,5 @@ In daily life we have patterns and even returning patterns, at least if you take
 In this talk Dennie and special guest speaker Miriam – a well-known Belgian speaker and experience expert in Autism – will take you on a journey where they explain life patterns via metaphors in the tech/ developer world. 
 You will learn how to recognize life patterns exactly as in code, engineering, and business patterns. When you recognize the patterns it’s finally time to learn to debug those patterns!
  Just as you debug code patterns with changing the source code, you learn to debug life patterns via changing lifestyle, and in specific thoughts. As you see, those are just the same.
+
+[Back](AutismAndMH.md)

@@ -9,3 +9,5 @@ But times have changed, as a person with a neuro diverse background it’s perfe
 With a combination of pure vulnerable communication, self-defined boundaries in your personal and professional life you really can skyrocket your tech career.
 
 This and much more I will discover in a whirlwind talk of Autistic Insights for everyone.
+
+[Back](AutismAndMH.md)

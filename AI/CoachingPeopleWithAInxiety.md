@@ -7,3 +7,5 @@ One of the biggest foundations of anxiety is the lack of understanding and knowl
 How do we use the Iceberg Methodology to coach people finding out what AI is all about? How do we help them to understand AI and its impact? Can we help them to see the opportunities next to the risks? And how do we use some of their ground fears to adjust the models and algorithms to make them feel more trustworthy for more people?
 
 This talk is about mixing AI knowledge and coaching skills.
+
+[Back](AI.md)

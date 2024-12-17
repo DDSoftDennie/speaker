@@ -5,3 +5,5 @@ Are all software developers the same? Do all software developers make the same c
 In this talk, I try to cover how the tech world is for me, as a person with autism. I am in tech for about 10 years. In fact, sometimes I feel differences between me and other people in tech. Besides my tech roll in life, I was responsible for a self – a support group of people with autism until 2019.
 
 #People #NonDotNet
+
+[Back](AutismAndMH.md)

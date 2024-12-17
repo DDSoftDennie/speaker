@@ -9,3 +9,5 @@ dyslexia, autism and other disabilities to communicate better, to understand bet
 
 How to embrace GenAI to foster disability inclusion and disrupt the disability-divide at the workplace?
 This talk starts from my expertise in accessibility and inclusion and contains my vision about the future of GenAI to enhance the employability of people with disabilities.
+
+[Back](AI.md)

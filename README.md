@@ -6,3 +6,20 @@ Dennie is Microsoft MVP in AI and Developer Technologies and has experience in a
 # AI
 [Read more](AI/AI.md)
 
+# Accessibility
+[Read more](Accessibility/Accessibility.md)
+
+# Autism And MH
+[Read more](AutismAndMH/AutismAndMH.md)
+
+# Fun
+[Read more](Fun/Fun.md)
+
+# Social Activities
+[Read more](SocialActivities/SocialActivities.md)
+
+# Social and Shocking
+[Read more](SocialAndShocking/SocialAndShocking.md)
+
+# UI/UX
+[Read more](UIUX/UIUX.md)
