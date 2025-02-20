@@ -36,7 +36,7 @@ Current number of talks: 12
 [Read More](SocialAnxiety2dot0.md)
 
 ## The Github Platform for Neurodiversity
-[Read More](TheGithubPlatformForNeurodiversity.md)
+[Read More](TheGithubPlatformforNeurodiversity.md)
 
 
 [Back to Home](../README.md)
