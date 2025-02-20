@@ -3,9 +3,9 @@
 
 | Category             | Number of Talks |
 |----------------------|-----------------|
-| [AI](AI/AI.md)       | 11              |
+| [AI](AI/AI.md)       | 12              |
 | [Accessibility](Accessibility/Accessibility.md) | 9 |
-| [Autism And MH](AutismAndMH/AutismAndMH.md) | 11 |
+| [Autism And MH](AutismAndMH/AutismAndMH.md) | 12 |
 | [Fun](Fun/Fun.md)    | 1               |
 | [Social Activities](SocialActivities/SocialActivities.md) | 1 |
 | [Social and Shocking](SocialAndShocking/SocialAndShocking.md) | 7 |
@@ -15,7 +15,7 @@
 ```mermaid
 pie  showData
     title Number of Talks by Category
-    "AI" : 11
+    "AI" : 12
     "Accessibility" : 9
     "Autism And MH" : 11
     "Fun" : 1

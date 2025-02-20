@@ -1,7 +1,7 @@
 # AI
 
 
-Current number of talks: 11
+Current number of talks: 12
 
 ## AI For The Better
 [Read More](AIForTheBetter.md)
@@ -35,6 +35,9 @@ Current number of talks: 11
 
 ## GenAI to foster disability inclusion and disrupt the Disability Divide
 [Read More](GenAIToFosterDisabilityInclusionAndDisrupt.md)
+
+## Github Copilot & Markdown Writing for Neurodiversity
+[Read More](GitHubCopilotAndMarkDownWritingND.md)
 
 
 
