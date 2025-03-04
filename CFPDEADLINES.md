@@ -18,6 +18,12 @@
 **DEADLINE:** March 30, 2025  
 **URL:** [Agile Testing Days](https://agiletestingdays.com/call-for-papers/)  
 
+## LeadDev New York ##
+**LOCATION:** New York, USA  
+**DATE:**  October 15-16, 2025  
+**DEADLINE:** April 27, 2025  
+**URL:**  [LeadDev New York](https://leaddev.submittable.com/submit/321832/talk-submissions-for-leaddev-new-york-2025)
+
 ## JavaZone ##
 **LOCATION:** Lillestrom, Norway  
 **DATE:**  September 3-4, 2025  
