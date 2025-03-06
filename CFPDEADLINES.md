@@ -18,6 +18,18 @@
 **DEADLINE:** March 30, 2025  
 **URL:** [Agile Testing Days](https://agiletestingdays.com/call-for-papers/)  
 
+## Oredev ##
+**LOCATION:** Malmo, Sweden  
+**DATE:** November 5-7, 2025  
+**DEADLINE:** March 31, 2025  
+**URL:** [Oredev](https://sessionize.com/oredev-2025)
+
+## Copenhagen Developer Fest ##
+**LOCATION:** Copenhagen, Denmark  
+**DATE:** September 8-12, 2025  
+**DEADLINE:** April 13, 2025  
+**URL:** [Copenhagen Developer Fest](https://sessionize.com/ndc-copenhagen-2025)
+
 ## LeadDev New York ##
 **LOCATION:** New York, USA  
 **DATE:**  October 15-16, 2025  
