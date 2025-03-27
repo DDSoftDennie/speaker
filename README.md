@@ -31,4 +31,3 @@ Dennie is Microsoft MVP in AI and Developer Technologies and has experience in a
 # CFP Deadlines
 
 [CFP Deadlines](CFPDEADLINES.md)
-
