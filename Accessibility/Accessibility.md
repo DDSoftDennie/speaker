@@ -1,7 +1,9 @@
 # Accessibility
 
-Current number of talks: 9
+Current number of talks: 10
 
+## (AI) Images As an Accessibility Assistant
+[Read More](AIImagesAsAnAccessibilityAssistant.md)
 
 ## Inclusion: It's about beds and distances
 [Read More](InclusionItsAboutBedsAndDistances.md)
