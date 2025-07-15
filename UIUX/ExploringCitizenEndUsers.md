@@ -6,7 +6,7 @@ Why are they using the software?
 Do they like the software and find it useful? 
 ... Or is our software the pity mandatory part of their job?
 
-In the first paragraph we still talk about business users, users our software as part of their professional life. 
+In the first paragraph we still talk about business users, users of our software as part of their professional life. 
 But what about the citizen end users? The people that use software in their private life? Some people because they want to, some people because they have to. It doesn't matter if it is a web application, a mobile app or a desktop application. 
 Why are citizen end users using the software? 
 Do they like it? 
