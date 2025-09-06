@@ -12,17 +12,6 @@
 | [UI/UX](UIUX/UIUX.md) | 2 |
 
 
-```mermaid
-pie  showData
-    title Number of Talks by Category
-    "AI" : 11
-    "Accessibility" : 9
-    "Autism And MH" : 11
-    "Fun" : 1
-    "Social Activities" : 1
-    "Social and Shocking" : 7
-    "UI/UX" : 2
-```
 
 # BIO
 
@@ -31,3 +20,7 @@ Dennie is Microsoft MVP in AI and Developer Technologies and has experience in a
 # CFP Deadlines
 
 [CFP Deadlines](CFPDEADLINES.md)
+
+# Served at
+
+[https://ddsoftdennie.github.io/speaker/]
