@@ -31,12 +31,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Run Mermaid scripts
-        run: |
-          # Install Mermaid CLI
-          npm install -g @mermaid-js/mermaid-cli
-          # Run Mermaid scripts (adjust the command as needed)
-          mmdc -i input.mmd -o output.svg
+    #  - name: Run Mermaid scripts
+    #   run: |
+    #      # Install Mermaid CLI
+    #      npm install -g @mermaid-js/mermaid-cli
+    #      # Run Mermaid scripts (adjust the command as needed)
+    #     mmdc -i input.mmd -o output.svg
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
