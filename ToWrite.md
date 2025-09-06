@@ -1,27 +1,13 @@
 # To write
 
 
-## Human Tech: Beyond Bureaucracy
 
 ## 50 Shades of Gray as an Accessibility Methodology
 
 ## The Abled Body and Brain Privilege
 
 
-## Autism & GenAI Use case: Start to Unit Test
 
-
-## Explore new horizons to admit that IT (Information Technology) is not only BT (Bureaucracy Technology)
-
-## Don't institutionalize my future self!
-
-    - Accessibility
-    - Mental Health
-    - Autism
-    - Vision 
-    - PTSD
-
-## The Importance of Providing Safety
 
 ## Conspiracies, DeepFakes, and ANTI-movements: Three Perspectives
 
@@ -29,5 +15,25 @@
 - **Conspiracy Theory Creators**: Leveraging AI, DeepFakes, and digital cults to spread misinformation.
 - **Society**: Including the media, the government, the masses, and IT professionals.
 
+
+
+
+## Speech Synthesis: From a Belgian Fraud history to American Big Tech
+
+## Dennie's Digiclub: Lessons from 1 year of (cognitive) disability inclusive workshops
+
+## Digital Anxiety: When all Trust is gone
+
+## (Autism and) The Predictive Brain Theory (in Tech)
+
+## The Fourth Dimension: Science vs Pseudoscience
+
+## Tangibility: The Secret Sauce of cognitive accessibility
+
+## 'The Lion King' journey to accessibility
+
+## Can Software murder people by accident?
+
+## Public Shaming: Accessibility Crimes
 
 
