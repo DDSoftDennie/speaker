@@ -1,6 +1,9 @@
 # Accessibility
 
-Current number of talks: 10
+Current number of talks: 11
+
+## Building for the (digital) Illiterate users
+[Read More](BuildingForTheIlliterateUser.md)
 
 ## (AI) Images As an Accessibility Assistant
 [Read More](AIImagesAsAnAccessibilityAssistant.md)
@@ -31,6 +34,7 @@ Current number of talks: 10
 
 ## Intro to Blazing Web Accessibility
 [Read More](IntroToBlazingWebAccessibility.md)
+
 
 
 [Back](../README.md)

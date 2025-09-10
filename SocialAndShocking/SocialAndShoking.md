@@ -1,6 +1,6 @@
 # Social and Shocking
 
-Current number of talks: 7
+Current number of talks: 9
 
 ## Understanding the (Your Language != My Jargon) Problem
 [Read More](YourLanguageISNOTMyJargon.md)
@@ -22,6 +22,12 @@ Current number of talks: 7
 
 ## Intersectional Communication
 [Read More](IntersectionalCommunication.md)
+
+## HumanTech
+[Read More](HumanTech.md)
+
+## IT is not BT
+[Read More](ITBT.md)
 
 
 [Go Back](../README.md)
