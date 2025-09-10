@@ -7,11 +7,4 @@ Today I bring my mom to this conference for a reason: She is telling the problem
 
 We map the needs people like my mom have and look for methodologies we can use to build software that supports tangibility and make them easier to understand, so that people can use it feeling safe and supported. How do we map these needs for people where the mailbox was (and only was) a physical part of their home building? How do we care for people only paid physical tickets in shops and stalls? And how do we protect people from phishing without victim blaming with the most well known sentence: "you should have looked better!"
 
-
-- Paper mail/ digital
-- Phishing
-- Tickets
-- Bills
-- Parking
-- Public Transport
-- Shopping 
+[Back](Accessibility.md)

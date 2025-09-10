@@ -1,4 +1,4 @@
-## Building Accessible and Inclusive Backends ##
+# Building Accessible and Inclusive Backends
 
 Accessibility is not only for frontend developers and designers. It is also for backend developers! I know, this is a bold statement. Let's dive into Accessibility and inclusion in backend development.
 

@@ -2,32 +2,22 @@
 
 Current number of talks: 9
 
-## Understanding the (Your Language != My Jargon) Problem
-[Read More](YourLanguageISNOTMyJargon.md)
+## [Understanding the (Your Language != My Jargon) Problem](YourLanguageISNOTMyJargon.md)
 
-## The Scary Truth About Labels
-[Read More](TheScaryTruthAboutLabels.md)
+## [The Scary Truth About Labels](TheScaryTruthAboutLabels.md)
 
-## THE (human) CONNECTION
-[Read More](TheHumanConnection.md)
+## [THE (human) CONNECTION](TheHumanConnection.md)
 
-## The Financial Underprivileged
-[Read More](TheFinancialUnderprivileged.md)
+## [The Financial Underprivileged](TheFinancialUnderprivileged.md)
 
-## TABOO: When All Trust Is Gone
-[Read More](TABOO%20When%20all%20trust%20is%20gone.md)
+## [TABOO: When All Trust Is Gone](TABOO%20When%20all%20trust%20is%20gone.md)
 
-## IT For LoA
-[Read More](ITForLoA.md)
+## [IT For LoA](ITForLoA.md)
 
-## Intersectional Communication
-[Read More](IntersectionalCommunication.md)
+## [Intersectional Communication](IntersectionalCommunication.md)
 
-## HumanTech
-[Read More](HumanTech.md)
+## [HumanTech](HumanTech.md)
 
-## IT is not BT
-[Read More](ITBT.md)
+## [IT is not BT](ITBT.md)
 
-
-[Go Back](../README.md)
+[Back](../README.md)

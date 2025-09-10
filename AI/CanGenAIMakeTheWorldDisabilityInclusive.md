@@ -1,5 +1,7 @@
 # Can Gen AI make the world Disability Inclusive?
 
+Category: AI
+
 We hear about the dangers of Generative AI. Generative AI can exclude people. The system can generate bias and it's possible to strengthen the current stigma people from diverse backgrounds may have. But for this talk, let's reverse the question: Can Generative AI make the world more inclusive, in specific for people with disabilities?
 
 As a tech-optimist I would say yes. But you don't need to believe me. Instead of a blind believe in the yes, I give you some interesting cases where Generative AI limits bias and makes the world more inclusive.

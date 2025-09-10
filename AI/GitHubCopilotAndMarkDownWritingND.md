@@ -1,6 +1,8 @@
 # Github Copilot & Markdown Writing for Neurodiversity
 
-Do you know that GitHub Copilot is not only a great tool for coding but also for writing? 
+Category: AI
+
+Do you know that GitHub Copilot is not only a great tool for coding but also for writing?
 
 When making Markdown files, we can write formatted text in our favorite editor or IDE. Markdown is a lightweight markup language with plain text formatting syntax. It is often used to format readme files but you can do much more with it.
 

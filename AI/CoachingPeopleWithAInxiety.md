@@ -1,5 +1,7 @@
 # Coaching people with AInxiety
 
+Category: AI
+
 Some people are a big fan of AI, they are seeing an avalanche of new and exciting opportunities. Others are afraid of AI and the impact on their jobs and their lives in general. Afraid of their 'imagination' AI will help governments, companies and surveillance to control their lives.
 
 One of the biggest foundations of anxiety is the lack of understanding and knowledge about a specific topic or scenario. In this talk we are going to use the Iceberg Methodology to understand some of the most common fears and anxieties about AI. What's below the surface? What's the real fear? What's the real problem?
