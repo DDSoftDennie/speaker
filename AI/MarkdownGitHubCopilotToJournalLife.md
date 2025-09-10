@@ -1,5 +1,7 @@
 # Markdown, Github & Copilot: A new way to journal (business) life
 
+Category: AI
+
 I used to write my journals in journal books, but I have a bad handwriting and it took too much time to find out my own scribbles.
 In 2024 I had some very important stuff to journal, and there was no room to mess it up. I opened VS Code and started to write my journal in Markdown.
 I saved it in a private GitHub repository and used GitHub Copilot to help me write my journal entries. For the first time, I really enjoyed writing my journal.

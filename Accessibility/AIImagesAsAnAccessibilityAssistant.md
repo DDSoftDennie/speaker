@@ -8,8 +8,4 @@ So far, so good, let's bring in Generative AI! Last weeks there was a whirlwind 
 
 I wrap up with discussing the need to have also a textual alternative of the image (ex: ALT-text) to help people that are using screencreaders (ex: people with vision loss). An accessible world means and-and. And images and text. I hope you enjoy this whirlwind of inspiration about images as an accessibility assistant. Maybe you might change your mind about using generative AI to create images.
 
-
-
-
-
-
+[Back](Accessibility.md)
