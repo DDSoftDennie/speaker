@@ -3,8 +3,8 @@
 | Category             | Number of Talks |
 |----------------------|-----------------|
 | [AI](AI/AI.md)       | 12              |
-| [Accessibility](Accessibility/Accessibility.md) | 11 |
-| [Autism And MH](AutismAndMH/AutismAndMH.md) | 11 |
+| [Accessibility](Accessibility/Accessibility.md) | 13 |
+| [Autism And MH](AutismAndMH/AutismAndMH.md) | 12 |
 | [Fun](Fun/Fun.md)    | 1               |
 | [Social Activities](SocialActivities/SocialActivities.md) | 1 |
 | [Social and Shocking](SocialAndShocking/SocialAndShocking.md) | 9 |

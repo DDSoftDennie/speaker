@@ -1,6 +1,10 @@
 # Accessibility
 
-Current number of talks: 11
+Current number of talks: 13
+
+## [Tangibility: The Secret Sauce of cognitive accessibility](TangibilityTheSecretSauce.md)
+
+## [The Lion King TM Journey to Accessibility](TheLionKingJourney.md)
 
 ## [Building for the (digital) Illiterate users](BuildingForTheIlliterateUser.md)
 
