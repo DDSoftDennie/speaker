@@ -1,6 +1,10 @@
 # Autism and Mental Health
 
-Current number of talks: 12
+Current number of talks: 13
+
+## [(Autism and) The Predictive Brain Theory (in Tech)](AutismAndPredictiveBrainTech.md)
+
+## [The Github Platform for Neurodiversity](TheGithubPlatformforNeurodiversity.md)
 
 ## [How do I help my Son? Revisited!](HowDoIHelpMySonRevisited.md)
 
@@ -23,7 +27,5 @@ Current number of talks: 12
 ## [Anxiety in Tech](AnxietyInTech.md)
 
 ## [Social Anxiety 2.0](SocialAnxiety2dot0.md)
-
-## [The Github Platform for Neurodiversity](TheGithubPlatformforNeurodiversity.md)
 
 [Back](../README.md)
