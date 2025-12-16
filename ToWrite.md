@@ -1,6 +1,32 @@
 # To write
 
+## Tangibility in Tech
 
+When you a walk in your village it's clear when you are crossing a street, entering a park or risk to get hit by a tree's branch. When you want to enter a bakery to order a pastry you know how much money you need to pay. If you open your (physical) wallet and look inside, you can feel the texture of the bills and coins. You know if you are financially able to buy that pastry that you crave for. You leave the bakery, go to a bench in the park. You see, feel and hear it's a silent, relaxing break. After this, you go to the clothe shop to buy a comfy sweater. You try it on, feel the texture of the fabric, see how it fits you in the mirror. You pay with cash because you know you have 30 spare dollars. You go home, and had a nice afternoon.
+
+In the digital world, things are not that tangible. You want to buy that same sweater online. You see a picture of it, but you can't feel the texture of the fabric. You don't know how it fits you until you receive it at home. You pay with a credit card, but you don't really know how much money you have on your bank account until you check your banking app (if you are able to use it at least). You can buy your food online too, so you can buy pastries to heat up at home. But you can't really smell or taste them until you receive them. And this might be a choice for some of us, and this is OK. It's great if it is based on your own choice. Doing what you want is part of self determinism, one of the core human needs.
+
+If we conclude and understand that the digital world is an intangible abstraction of the physical world, we see that this is in fact a substitution. A substitution being purely on brain power, imagination, memory and the capability to translate 2D info into 3D info. This is not easy for everyone. People with cognitive disabilities, elderly people, people with autism, people with intellectual disabilities, and more can struggle with this abstraction.
+
+When we force people to use digital tools that are intangible, we are excluding a part of them form our society. In this talk I will pledge as an digital geek and accessibility advocate about the dangers of intangibility in tech and how we can make the (digital) world more tangible for everyone.
+
+## Tangible Accessible Software
+
+In the digital world, things are not tangible. If you want to buy clothes, food, concert tickets or register for events or citizen services online, but you have a condition that makes it hard for you to use human's brain to the full extent (for example: you have a cognitive disability, you experience elderly-related difficulties, and more) then it is difficult to use these tools because they are intangible substitutions of the physical world.
+
+Tangibility is related to everything in the physical world that we can experience with our senses: sight, hearing, touch, taste and smell. In human evolution the brain is taught to process these sensory inputs to understand the world around us. The most of us have learned to make the cognitive leap to translate the physical world into the digital world. Soe people with the condition mentioned above have a harder time with this cognitive leap.
+
+Today I am going to teach you how to build-in tangibility features into your software, websites and applications to make them more accessible for everyone. We are scratching the surface of text-to-speech, images, videos and easy language to make software more tangible and include more people in our society.
+
+## Predictable Solutions
+
+## My Digiclub: Lessons from 1 year of (cognitive) disability inclusive workshops
+
+In September 2024 'Schol' in Ostend (Belgium) opened it's doors. Schol is an experience shop and cafe based on the principles of disability inclusion. The waiters have a cognitive disability. A cognitive disability affects the intellectual functioning of the person. An example of a disability within the cognitive spectrum is Down syndrome. What makes Schol an experience shop is that you can not only order food and drinks, clothes, and more... but you can also participate in workshops. One of the workshop series is My Digiclub, a workshop series about digital skills and digital creativity for all.
+
+Each month there is a new workshop about a digital skill or product. The attendees vary from people with a cognitive disability, to people without any disability, to elderly people, to young people. This is unfortunately an exception in the world of education and workshops. While you do have specific education for people with disabilities, and you have general education for everyone else, there are very few initiatives that bring people together in an inclusive way. The topic that were covered where varied: AI, Social Media, Message services, to online etiquette. I only had one rule for myself: "everyone attending should at least have one take away that they can use in their daily life".
+
+When I helped that single person that always struggled to use the right settings in their app. Helped another how to block an annoying contact on social media. Or helped people to use GenAI prompting for their own needs I ws always energized and surprised how much people can learn. And I mean every person can learn, no matter their age, background, or disability.
 
 ## 50 Shades of Gray as an Accessibility Methodology
 
@@ -21,45 +47,14 @@
 
 ## Speech Synthesis: From a Belgian Fraud history to American Big Tech
 
-## Dennie's Digiclub: Lessons from 1 year of (cognitive) disability inclusive workshops
+
 
 ## Digital Anxiety: When all Trust is gone
 
-## (Autism and) The Predictive Brain Theory (in Tech)
 
-What does new autism, AI and quantum computing research have in common? We need to stop following the well known 'input - process - output' model. Let's escape this model and embrace the predictive brain theory to understand autism and how people on the spectrum interact with technology and at the workplace.
 
-Recent brain research shows that the brain is not a passive receiver of stimuli, but an active predictor of what will happen next. The brain is constantly building a big model of the world based on past experiences and using this model to predict what will happen next. When we have a big model of the world we know what to expect. If something unexpected happens, the brain receives this as an error and needs to update its model to accommodate the new information. This is not autism or tech specific, this is how the brain works for everyone according to the latest brain research.
 
-But people on the autism spectrum often have a harder time building the big model of the world and the stimuli-response system of people on the spectrum is often more sensitive, adding context blindness and the higher energy cost of executive functioning to the mix, it is harder for people on the spectrum to predict what will happen next and to deal with unexpected situations. This can lead to anxiety, stress and burnout.
 
-If your tech job is constantly causing errors in the predictive model of the world, it will be hard to do your job and to be happy at work. In this talk I will explain how the predictive brain theory can help us understand autism and how we can build better technology and workplaces for people on the spectrum.
-
-## Tangibility: The Secret Sauce of cognitive accessibility
-
-Let's discover accessibility beyond the guidelines to build accessible software for people with disabilities covered in the WCAG (Web Content Accessibility Guidelines). In this talk I will explain how tangibility can help to make software and websites more accessible for people with cognitive disabilities, autism and dementia.
-
-Making something tangible means making it touchable, concrete, real, and physical or at least easy to imagine and perceive the info as close to real as possible. When having a digital product talking and pointing to concepts that some people can't imagine or perceive, it will be hard for them to use the product. And as we know, in this day and age, not being a able to use digital products means being excluded from society even often from the real life physical society.
-
-Concepts as iconography, images, color coding, voice and sound will help to make digital products more tangible. Building with tangibility in mind will help approx 1,5/50 people with cognitive disabilities, autism, dementia and more to use your products and services and be an eventual (new) customer.
-
-## 'The Lion King TM' journey to accessibility
-
-Welcome in my 'safari' about accessibility in the theme of 'The Lion King', my favorite childhood Disney movie featuring Characters:
-
-Simba: the young prince wanting to create an accessible kingdom
-Mufasa: the wise and noble king, whose spirit guides Simba to create an accessible kingdom
-Nala: Simba's childhood friend and eventual queen, advocating for accessibility
-Timon and Pumbaa: The comedic duo who teach Simba the carefree philosophy of "Hakuna Matata," representing the importance of joy and inclusivity in an accessible kingdom
-Scar: the cunning and power-hungry uncle who betrays Mufasa and seeks to usurp the throne, symbolizing resistance to change and accessibility initiatives
-Rafiki: the wise mandrill who serves as a shaman and mentor to Simba, guiding him on the path to creating an accessible kingdom
-The hyenas: a group of scavengers who ally with Scar in his quest for power.
-
-While Simba's dream to build an accessible kingdom is supported by his dad Mufasa, who is wise enough to know that accessibility is the future, Scar is against it. Scar represents the old way of thinking, where accessibility is not a priority. He is willing to do whatever it takes to stop Simba from creating an accessible kingdom.
-
-Will Simba be able to overcome Scar and create an accessible kingdom? Come and watch this childhood honoring but also scary talk to learn about how accessibility is perceived in the world of tech.
-
-TM: The Lion King is a trademark of Disney. I do not own any rights to the characters or story. This talk is purely for educational and entertainment purposes.
 
 
 ## Can Software murder people by accident?
