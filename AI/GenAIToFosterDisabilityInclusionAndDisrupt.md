@@ -1,6 +1,5 @@
 # GenAI to foster disability inclusion and disrupt the Disability Divide
 
-Category: AI
 
 While there are countless arguments against AI in terms of ethics and inclusion, today, I want you to explore its potential benefits and consider how this technology can revolutionize accessibility and bridge the disability divide.
 Can we close the gap between people with and without disabilities by using GenAI? I believe we can!
