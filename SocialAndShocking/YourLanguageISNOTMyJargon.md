@@ -6,3 +6,5 @@ Our clients have difficulties reading and consuming your website. Can you please
 Of course, the client computer in a client-server architecture doesn't read fonts, but interpret the plain text. But a client in a client-professional relationship in care is another word for end user or customer.
 
 Using words with different meaning in different context causes difficulties and barriers in communication. I call this the (Your Language != My Jargon) problem. Today we will look at some words and explore empathy, coaching and communication to solve this problem.
+
+[Back](SocialAndShocking.md)

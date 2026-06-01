@@ -1,0 +1,5 @@
+# How do I help my son?
+
+Hello, my name is Ivette. I am Dennie ’s mum. I am going to tell you a story. As you know it’s not always simply to imagine the life of a young developer- entrepreneur. Dennie ’s autism makes the situation just more spicy. Hi, I am Dennie I am a developer-entrepreneur and I am quite ambitious. We have found a way for understanding each other, even if we live in another world. Via communication, adding sometimes a bit more reality to dreams, but be sure to work and dream enough, Dennie and Ivette are building a strong relationship. Our expertise, we call auti-coaching helps us for securing boundaries, keeping motivation even if Dennie has to leave his comfort zone in the IT world just to take the time to relax. We show you our way of communicating and are sure that our approach can also be used for people without autism to prevent their self against burnout, bore-out and depression. 
+
+[Back](AutismAndMH.md)

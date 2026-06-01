@@ -28,4 +28,8 @@ Current number of talks: 13
 
 ## [Social Anxiety 2.0](SocialAnxiety2dot0.md)
 
+## [Networking at conferences for autistic people and introverts](NetworkingAtConfAutiIntro.md)
+
+## [How do I help my son?](HowDoIHelpMySon.md)
+
 [Back](../README.md)

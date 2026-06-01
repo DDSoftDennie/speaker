@@ -9,3 +9,5 @@ How doe we keep up? What do we want to be? Are we teaching our self or do we hav
 - From BLF to IT for Loa
 - NDC Porto 2022
 - Unit testing
+
+[Back](SocialAndShocking.md)

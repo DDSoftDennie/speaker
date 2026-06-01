@@ -2,13 +2,14 @@
 
 | Category             | Number of Talks |
 |----------------------|-----------------|
-| [AI](AI/AI.md)       | 12              |
-| [Accessibility](Accessibility/Accessibility.md) | 13 |
-| [Autism And MH](AutismAndMH/AutismAndMH.md) | 12 |
+| [AI](AI/AI.md)       | 14              |
+| [Accessibility](Accessibility/Accessibility.md) | 21 |
+| [Autism And MH](AutismAndMH/AutismAndMH.md) | 15 |
 | [Fun](Fun/Fun.md)    | 1               |
 | [Social Activities](SocialActivities/SocialActivities.md) | 1 |
-| [Social and Shocking](SocialAndShocking/SocialAndShocking.md) | 9 |
+| [Social and Shocking](SocialAndShocking/SocialAndShocking.md) | 10 |
 | [UI/UX](UIUX/UIUX.md) | 3 |
+| [Azure](Azure/Azure.md) | 1               |
 
 # Workshops & Talks in Dutch
 
