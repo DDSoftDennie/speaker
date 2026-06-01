@@ -5,3 +5,5 @@ Vandaag vertel ik hoe ik twee van mijn grote passies combineer. Zelf ben ik een 
 Ik was ook altijd graag “weg”. Dennie wilde “uitstapjes” maken, “reizen”. Het was nooit te veel. Vaak te weinig. Zelf ben ik een persoon met autisme die extravert is, en juist veel prikkels nodig heeft. Ik ben zelden overprikkeld maar vaak onderprikkeld.
 
 Ik heb sinds 2017 het grote geluk om deze twee grote passies te kunnen combineren. Ik bezoek veel internationale conferenties over softwareontwikkeling. Op de meeste spreek ik zelf. Ik maak uiteenzettingen die een mix zijn van technische en sociale onderwerpen. Met grote trots sta ik vooraan aan het publiek mijn zegje te verkondigen. Ik vlieg van her naar der. Ik ben in Australië geweest en verschillende keren in Amerika, ben ook vaak in Scandinavië en de rest van Europa. Ik hoorde dat mensen met autisme moeilijk kunnen vliegen en plannen? Voor mij zijn luchthavens pas een echte structuur! Ik lach, ik straal en ik fladder (ja, gebeurt soms nog bij aankomst op een plaats die veel voor mij betekent), soms laat ik een traan van blijdschap. Maar ik heb mijn draai gevonden.
+
+[Back to Autisme](Autisme.md)
