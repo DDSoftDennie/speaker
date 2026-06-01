@@ -4,7 +4,7 @@
 |----------------------|-----------------|
 | [AI](AI/AI.md)       | 14              |
 | [Accessibility](Accessibility/Accessibility.md) | 21 |
-| [Autism And MH](AutismAndMH/AutismAndMH.md) | 15 |
+| [Autism And MH](AutismAndMH/AutismAndMH.md) | 16 |
 | [Fun](Fun/Fun.md)    | 1               |
 | [Social Activities](SocialActivities/SocialActivities.md) | 1 |
 | [Social and Shocking](SocialAndShocking/SocialAndShocking.md) | 10 |
