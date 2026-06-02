@@ -1,6 +1,6 @@
 # Accessibility
 
-Current number of talks: 13
+Current number of talks: 17
 
 ## [Tangibility: The Secret Sauce of cognitive accessibility](TangibilityTheSecretSauce.md)
 
@@ -27,5 +27,19 @@ Current number of talks: 13
 ## [Accessibility: What, Where, When & How](AccessibilityWhatWhereWhenAndHow.md)
 
 ## [Intro to Blazing Web Accessibility](IntroToBlazingWebAccessibility.md)
+
+## [The Power of Inclsuion](ThePowerOfInclusion.md)
+
+## [Improve People with disabilities life with Xamarin.Essentials](ImprovePWDWithXamEssentials.md)
+
+## [Desgning Accessible Apps](DesigningAccessibleApps.md)
+
+## [Making Enabling Apps for Disable People](MakingEnablingAppsForDisabledPeople.md)
+
+
+
+
+
+
 
 [Back](../README.md)
